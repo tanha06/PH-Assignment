@@ -8,6 +8,9 @@ h1{
 h2{
                                    font-size: 75px;
 }
+h3{
+                                   font-size: 40px;
+}
 p{
                                    color: #708090;
                                    font-size:25px ;
@@ -33,7 +36,6 @@ p{
                                    border-image: linear-gradient(185deg,#f3503e, tomato);
                                    border-image-slice:1;
                                    padding-left: 20px;
-                                   border-radius: 50px;
 }
 .link-butt{
                                    text-decoration: none;
@@ -43,4 +45,48 @@ p{
                                    background-image: linear-gradient(45deg,#f3503e , tomato);
                                    color: white;
                                    font-weight: bolder;
+}
+.mission-area{
+                                   padding-left:10%;
+}
+#mar-bott{
+                                   padding-left:25%;
+}
+span{color:#f3503e ;}
+.flexi-container{
+                                   display: flex;
+                                   margin-bottom: 100px;
+                                   margin-right: 10%;
+                                   padding-left: ;
+}
+.half-site{
+                                   width: 370px;
+                                   padding-left: 15px;
+                                   padding-right: 15px;                               
+}
+.half-site img{
+                                   width: 50%;
+                                   margin-left: 30%;
+}
+
+#div-1{
+                                   border: 2px solid #F8F8FF;
+                                   margin-left: 205px;
+                                   margin-right: 25px;
+                                   background-color: #F8F8FF;
+                                   border-radius: 18px;
+                                 
+}
+#div-2{
+                                   border: 2px solid #FFFAF0;
+                                   margin-right:25px;
+                                   background-color: #FFFAF0;
+                                   border-radius: 18px;
+}
+
+#div-3{
+                                   border: 2px solid #FFFFF0;
+                                   background-color: #FFFFF0;
+                                   border-radius: 18px;
+                                  
 }
