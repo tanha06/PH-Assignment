@@ -92,15 +92,25 @@ span{color:#f3503e ;}
 }
 .Dec-wi-li{
                                    display: flex;
-                                   margin-bottom: 0px;              
+                                   margin-bottom: 100px;              
 }
 .baby-div-1 {
                                    width: 30%;
                                    padding-left: 10%;
 }
-.baby-div-2{
-
-}
 .baby-div-1 img{ 
                                    width: 75%;
+}
+.Know-our-glo-commu{
+                                   display: flex;
+                                   margin-bottom: 100px;
+                                   
+}
+.kid-div-1{
+                                   width: 30%;
+                                   padding-left: 10%;  
+}
+.kid-div-2 img{
+                                  width: 45%;
+                                  padding-left: 40%;
 }
